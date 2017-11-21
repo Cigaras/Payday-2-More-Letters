@@ -2,7 +2,7 @@
 	"name": "More Letters",
 	"description": "Doubles the amount of allowed input characters for renaming weapons, skill sets and profiles",
 	"author": "Valdas V.",
-	"version": "1.0",
+	"version": "1.0.1",
 	"blt_version": 2,
 	"image" : "logo.png",
 	"updates" : [
